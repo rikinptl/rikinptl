@@ -3,14 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikinptl&label=Profile%20views&color=0e75b6&style=flat" alt="rikinptl" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rikinpatel_2620" target="blank"><img src="https://img.shields.io/twitter/follow/rikinpatel_2620?logo=twitter&style=for-the-badge" alt="rikinpatel_2620" /></a> </p>
-
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rknptl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rknptl" height="30" width="40" /></a>
 <a href="https://twitter.com/rikinpatel_2620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rikinpatel_2620" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rknptl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rknptl" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23205688" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23205688" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rikinpatel_2620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rikinpatel_2620" height="30" width="40" /></a>
 </p>
