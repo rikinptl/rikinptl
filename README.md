@@ -7,11 +7,19 @@
 
 - 🌱 I’m currently learning **real time streaming applications!**
 
+- 👨‍💻 All of my projects are available at [https://github.com/rikinptl?tab=repositories](https://github.com/rikinptl?tab=repositories)
+
+- 📝 I regularly write articles on [https://dev.to/rikinptl](https://dev.to/rikinptl)
+
 - 💬 Ask me about **python,SQL,NoSQL,Apache Hadoop, Apache Spark, Apache Hive, Apache Airflow, Docker, Apache Kafka, Snowflake, PostgreSQL, MongoDB**
 
 - 📫 How to reach me **rikinpatel.2620@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fQdxgso-2PMUbB4HCXPf6Am-0oaNH7Ws/view?usp=sharing](https://drive.google.com/file/d/1fQdxgso-2PMUbB4HCXPf6Am-0oaNH7Ws/view?usp=sharing)
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
