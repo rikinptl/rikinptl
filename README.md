@@ -1,4 +1,4 @@
-![MasterHead](https://t4.ftcdn.net/jpg/05/39/88/83/240_F_539888304_hjMmavzflkeQBCoWaTDSFqF0rxDa3VA2.jpg)
+<!--![MasterHead](https://t4.ftcdn.net/jpg/05/39/88/83/240_F_539888304_hjMmavzflkeQBCoWaTDSFqF0rxDa3VA2.jpg) -->
 <h1 align="center">Hi 👋, I'm Rikin Patel</h1>
 <h3 align="center">A passionate Data Engineer from USA</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
