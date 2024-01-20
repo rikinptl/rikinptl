@@ -1,21 +1,22 @@
+![MasterHead](https://t3.ftcdn.net/jpg/03/45/31/28/360_F_345312834_y1esquNNNnxZumL9UwVTnzg7qpeb95Dx.jpg)
 <h1 align="center">Hi 👋, I'm Rikin Patel</h1>
 <h3 align="center">A passionate Data Engineer from USA</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif)">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikinptl&label=Profile%20views&color=0e75b6&style=flat" alt="rikinptl" /> </p>
 
 - 🔭 I’m currently working on [user-data-classify](https://github.com/rikinptl/user-data-classify.git)
 
 - 🌱 I’m currently learning **real time streaming applications!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rikinptl?tab=repositories](https://github.com/rikinptl?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/rikinptl?tab=repositories)
 
-- 📝 I regularly write articles on [https://dev.to/rikinptl](https://dev.to/rikinptl)
+- 📝 I regularly write articles on [dev.to](https://dev.to/rikinptl)
 
 - 💬 Ask me about **python,SQL,NoSQL,Apache Hadoop, Apache Spark, Apache Hive, Apache Airflow, Docker, Apache Kafka, Snowflake, PostgreSQL, MongoDB**
 
-- 📫 How to reach me **rikinpatel.2620@gmail.com**
+- 📫 You can reach me via my email: **rikinpatel.2620@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fQdxgso-2PMUbB4HCXPf6Am-0oaNH7Ws/view?usp=sharing](https://drive.google.com/file/d/1fQdxgso-2PMUbB4HCXPf6Am-0oaNH7Ws/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1vANLWswf6ijbZPZ0XJmmCQHEIozp-viy/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -36,6 +37,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rikinptl&show_icons=true&locale=en&layout=compact" alt="rikinptl" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rikinptl&show_icons=true&locale=en" alt="rikinptl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rikinptl&" alt="rikinptl" /></p>
