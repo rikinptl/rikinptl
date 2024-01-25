@@ -16,9 +16,7 @@
 
 - 📫 You can reach me via my email: **rikinpatel.2620@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1vANLWswf6ijbZPZ0XJmmCQHEIozp-viy/view?usp=sharing)
-
-### Blogs posts
+- ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
