@@ -40,4 +40,5 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rikinptl&" alt="rikinptl" /></p>
+
 ![snake gif](https://github.com/rikinptl/rikinptl/blob/output/github-contribution-grid-snake.gif)
