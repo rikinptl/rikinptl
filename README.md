@@ -21,6 +21,7 @@
 - [Harnessing Cron Job Scheduling Strategies for Advanced EC2 Cost Optimization in Enterprise IT Environments](https://dev.to/rikinptl/harnessing-cron-job-scheduling-strategies-for-advanced-ec2-cost-optimization-in-enterprise-it-environments-3cao)
 - [Efficient Data Validation and S3 Upload with Python: A Deep Dive into S3Loader Utility](https://dev.to/rikinptl/efficient-data-validation-and-s3-upload-with-python-a-deep-dive-into-s3loader-utility-cal)
 - [Setting up MySQL on Amazon EC2 using Homebrew](https://dev.to/rikinptl/setting-up-mysql-on-amazon-ec2-using-homebrew-3nmc)
+- [Unraveling the Script: A Dive into Dynamic Data Fetching and Storage](https://dev.to/rikinptl/unraveling-the-script-a-dive-into-dynamic-data-fetching-and-storage-1m14)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
