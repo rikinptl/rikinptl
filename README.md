@@ -19,6 +19,7 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Unleashing AWS CDK: A Developer&#39;s Gateway to Cloud Infrastructure](https://dev.to/rikinptl/unleashing-aws-cdk-a-developers-gateway-to-cloud-infrastructure-3bg6)
 - [Harnessing Cron Job Scheduling Strategies for Advanced EC2 Cost Optimization in Enterprise IT Environments](https://dev.to/rikinptl/harnessing-cron-job-scheduling-strategies-for-advanced-ec2-cost-optimization-in-enterprise-it-environments-3cao)
 - [Efficient Data Validation and S3 Upload with Python: A Deep Dive into S3Loader Utility](https://dev.to/rikinptl/efficient-data-validation-and-s3-upload-with-python-a-deep-dive-into-s3loader-utility-cal)
 - [Setting up MySQL on Amazon EC2 using Homebrew](https://dev.to/rikinptl/setting-up-mysql-on-amazon-ec2-using-homebrew-3nmc)
