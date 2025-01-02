@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **python,SQL,NoSQL,Apache Hadoop, Apache Spark, Apache Hive, Apache Airflow, Docker, Apache Kafka, Snowflake, PostgreSQL, MongoDB**
 
-- 📫 You can reach me via my email: **rikinpatel.2620@gmail.com**
+- 📫 You can reach me via my email: **raptel2001w@gmail.com**
 
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
