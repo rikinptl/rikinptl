@@ -304,6 +304,21 @@ section {
     justify-content: center;
 }
 
+.profile-image {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid #e5e7eb;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+    transition: all 0.3s ease;
+}
+
+.profile-image:hover {
+    transform: scale(1.05);
+    box-shadow: 0 12px 35px rgba(0, 0, 0, 0.2);
+}
+
 .image-placeholder {
     width: 200px;
     height: 200px;
@@ -792,6 +807,11 @@ section {
     .research-card {
         padding: 1.5rem;
     }
+
+    .profile-image {
+        width: 200px;
+        height: 200px;
+    }
 }
 
 @media (max-width: 480px) {
@@ -809,5 +829,10 @@ section {
 
     .stat h3 {
         font-size: 2rem;
+    }
+
+    .profile-image {
+        width: 150px;
+        height: 150px;
     }
 }
