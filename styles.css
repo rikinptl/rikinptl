@@ -332,9 +332,117 @@ section {
     font-size: 4rem;
 }
 
+/* Experience Section */
+.experience {
+    background: white;
+    scroll-margin-top: 80px;
+}
+
+.experience-timeline {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.experience-item {
+    background: #f8fafc;
+    border-radius: 12px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    border-left: 4px solid #2563eb;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    transition: all 0.3s ease;
+}
+
+.experience-item:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+.experience-header {
+    margin-bottom: 1.5rem;
+}
+
+.experience-header h3 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #1f2937;
+    margin-bottom: 0.5rem;
+}
+
+.experience-company {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.company-name {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #2563eb;
+}
+
+.company-rank {
+    background: #dbeafe;
+    color: #1e40af;
+    padding: 0.25rem 0.75rem;
+    border-radius: 12px;
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.experience-period {
+    color: #6b7280;
+    font-weight: 500;
+}
+
+.experience-content p {
+    color: #4b5563;
+    margin-bottom: 1.5rem;
+    line-height: 1.6;
+}
+
+.experience-projects {
+    margin-bottom: 1.5rem;
+}
+
+.experience-projects h4 {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #1f2937;
+    margin-bottom: 1rem;
+}
+
+.experience-projects ul {
+    list-style: none;
+    padding: 0;
+}
+
+.experience-projects li {
+    margin-bottom: 0.75rem;
+    padding-left: 1.5rem;
+    position: relative;
+    color: #4b5563;
+    line-height: 1.5;
+}
+
+.experience-projects li::before {
+    content: "▶";
+    position: absolute;
+    left: 0;
+    color: #2563eb;
+    font-size: 0.8rem;
+}
+
+.experience-tech {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
 /* Skills Section */
 .skills {
-    background: white;
+    background: #f8fafc;
     scroll-margin-top: 80px;
 }
 
@@ -812,6 +920,16 @@ section {
     .profile-image {
         width: 200px;
         height: 200px;
+    }
+
+    .experience-item {
+        padding: 1.5rem;
+    }
+
+    .experience-company {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.5rem;
     }
 }
 
