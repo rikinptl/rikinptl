@@ -21,9 +21,10 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         e.preventDefault();
         const target = document.querySelector(this.getAttribute('href'));
         if (target) {
-            target.scrollIntoView({
-                behavior: 'smooth',
-                block: 'start'
+            const offsetTop = target.offsetTop - 80; // Account for fixed navbar
+            window.scrollTo({
+                top: offsetTop,
+                behavior: 'smooth'
             });
         }
     });
@@ -224,12 +225,12 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 });
 
-// Parallax effect for hero section
+// Parallax effect for hero section (reduced intensity)
 window.addEventListener('scroll', () => {
     const scrolled = window.pageYOffset;
     const hero = document.querySelector('.hero');
     if (hero) {
-        hero.style.transform = `translateY(${scrolled * 0.5}px)`;
+        hero.style.transform = `translateY(${scrolled * 0.2}px)`; // Reduced from 0.5 to 0.2
     }
 });
 

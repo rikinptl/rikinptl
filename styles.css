@@ -7,6 +7,7 @@
 
 html {
     scroll-behavior: smooth;
+    scroll-padding-top: 80px;
 }
 
 body {
@@ -258,6 +259,7 @@ section {
 /* About Section */
 .about {
     background: #f8fafc;
+    scroll-margin-top: 80px;
 }
 
 .about-content {
@@ -315,6 +317,11 @@ section {
 }
 
 /* Skills Section */
+.skills {
+    background: white;
+    scroll-margin-top: 80px;
+}
+
 .skills-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
