@@ -76,7 +76,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Contact
 
 - **Email**: rpatel2001w@gmail.com
-- **LinkedIn**: [rikin-patel-02300528a](https://www.linkedin.com/in/rikin-patel-02300528a/)
+- **LinkedIn**: [rknptl](https://www.linkedin.com/in/rknptl/)
 - **GitHub**: [rikinptl](https://github.com/rikinptl)
 - **Dev.to**: [rikinptl](https://dev.to/rikinptl)
 - **Twitter**: [rikinpatel_2620](https://twitter.com/rikinpatel_2620)
