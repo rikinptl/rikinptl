@@ -68,6 +68,11 @@ Your website will be available at: `https://yourusername.github.io/rikinptl`
 
 This project is open source and available under the [MIT License](LICENSE).
 
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Contact
 
 - **Email**: rpatel2001w@gmail.com
