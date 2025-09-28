@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Self-Evolving Neural Networks with Meta-Learning and Automated Architecture Search](https://dev.to/rikinptl/implementing-self-evolving-neural-networks-with-meta-learning-and-automated-architecture-search-1b7n)
+- [Implementing Emergent Tool Use in Multi-Agent AI Systems Through Meta-Learning and Environment Scaffolding](https://dev.to/rikinptl/implementing-emergent-tool-use-in-multi-agent-ai-systems-through-meta-learning-and-environment-3h90)
+- [Advanced WebAssembly Performance Optimization: Pushing the Limits of Web Performance](https://dev.to/rikinptl/advanced-webassembly-performance-optimization-pushing-the-limits-of-web-performance-4ke0)
+- [Machine Learning Model Optimization at Scale: From Theory to Production](https://dev.to/rikinptl/machine-learning-model-optimization-at-scale-from-theory-to-production-2al2)
 - [Leveraging Python for Efficient Cold Email Outreach to Recruiters: A Practical Guide](https://dev.to/rikinptl/leveraging-python-for-efficient-cold-email-outreach-to-recruiters-a-practical-guide-3p25)
-- [Unleashing AWS CDK: A Developer&#39;s Gateway to Cloud Infrastructure](https://dev.to/rikinptl/unleashing-aws-cdk-a-developers-gateway-to-cloud-infrastructure-3bg6)
-- [Harnessing Cron Job Scheduling Strategies for Advanced EC2 Cost Optimization in Enterprise IT Environments](https://dev.to/rikinptl/harnessing-cron-job-scheduling-strategies-for-advanced-ec2-cost-optimization-in-enterprise-it-environments-3cao)
-- [Efficient Data Validation and S3 Upload with Python: A Deep Dive into S3Loader Utility](https://dev.to/rikinptl/efficient-data-validation-and-s3-upload-with-python-a-deep-dive-into-s3loader-utility-cal)
-- [Setting up MySQL on Amazon EC2 using Homebrew](https://dev.to/rikinptl/setting-up-mysql-on-amazon-ec2-using-homebrew-3nmc)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
