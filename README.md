@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Emergent Coordination in Heterogeneous Multi-Agent Systems Through Differentiable Communication](https://dev.to/rikinptl/emergent-coordination-in-heterogeneous-multi-agent-systems-through-differentiable-communication-558m)
 - [Decentralized Federated Learning with Differential Privacy and Byzantine-Robust Aggregation](https://dev.to/rikinptl/decentralized-federated-learning-with-differential-privacy-and-byzantine-robust-aggregation-4hao)
 - [Implementing Emergent Tool Synthesis in Multi-Agent AI Systems for Dynamic Problem Solving](https://dev.to/rikinptl/implementing-emergent-tool-synthesis-in-multi-agent-ai-systems-for-dynamic-problem-solving-2no9)
 - [Implementing Emergent Tool Use in Multi-Agent Systems Through Meta-Learning and Differentiable Computation](https://dev.to/rikinptl/implementing-emergent-tool-use-in-multi-agent-systems-through-meta-learning-and-differentiable-2e86)
 - [Implementing Self-Evolving Neural Networks with Meta-Learning and Automated Architecture Search](https://dev.to/rikinptl/implementing-self-evolving-neural-networks-with-meta-learning-and-automated-architecture-search-1b7n)
-- [Implementing Emergent Tool Use in Multi-Agent AI Systems Through Meta-Learning and Environment Scaffolding](https://dev.to/rikinptl/implementing-emergent-tool-use-in-multi-agent-ai-systems-through-meta-learning-and-environment-3h90)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
