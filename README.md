@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Environment transitions based on all agents&#39; actions](https://dev.to/rikinptl/environment-transitions-based-on-all-agents-actions-521l)
 - [Encode observations into messages](https://dev.to/rikinptl/encode-observations-into-messages-fch)
 - [The Neural Network Odyssey: From Biological Inspiration to AI Revolution](https://dev.to/rikinptl/the-neural-network-odyssey-from-biological-inspiration-to-ai-revolution-15l7)
 - [Emergent Coordination in Heterogeneous Multi-Agent Systems Through Differentiable Communication](https://dev.to/rikinptl/emergent-coordination-in-heterogeneous-multi-agent-systems-through-differentiable-communication-558m)
 - [Decentralized Federated Learning with Differential Privacy and Byzantine-Robust Aggregation](https://dev.to/rikinptl/decentralized-federated-learning-with-differential-privacy-and-byzantine-robust-aggregation-4hao)
-- [Implementing Emergent Tool Synthesis in Multi-Agent AI Systems for Dynamic Problem Solving](https://dev.to/rikinptl/implementing-emergent-tool-synthesis-in-multi-agent-ai-systems-for-dynamic-problem-solving-2no9)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
