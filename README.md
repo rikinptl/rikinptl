@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Neuroevolutionary Optimization of Spiking Neural Networks for Edge AI Deployment](https://dev.to/rikinptl/neuroevolutionary-optimization-of-spiking-neural-networks-for-edge-ai-deployment-334)
 - [Emergent Tool Discovery and Integration in Autonomous AI Agent Ecosystems](https://dev.to/rikinptl/emergent-tool-discovery-and-integration-in-autonomous-ai-agent-ecosystems-1091)
 - [Environment transitions based on all agents&#39; actions](https://dev.to/rikinptl/environment-transitions-based-on-all-agents-actions-521l)
 - [Encode observations into messages](https://dev.to/rikinptl/encode-observations-into-messages-fch)
 - [The Neural Network Odyssey: From Biological Inspiration to AI Revolution](https://dev.to/rikinptl/the-neural-network-odyssey-from-biological-inspiration-to-ai-revolution-15l7)
-- [Emergent Coordination in Heterogeneous Multi-Agent Systems Through Differentiable Communication](https://dev.to/rikinptl/emergent-coordination-in-heterogeneous-multi-agent-systems-through-differentiable-communication-558m)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
