@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Emergent Communication Protocols in Multi-Agent Reinforcement Learning Systems](https://dev.to/rikinptl/emergent-communication-protocols-in-multi-agent-reinforcement-learning-systems-4gi7)
 - [Concatenate observation with received messages](https://dev.to/rikinptl/concatenate-observation-with-received-messages-eic)
 - [Observation processing](https://dev.to/rikinptl/observation-processing-38an)
 - [Update positions based on actions](https://dev.to/rikinptl/update-positions-based-on-actions-162l)
 - [Environment dynamics](https://dev.to/rikinptl/environment-dynamics-402i)
-- [Emergent Tool Discovery in Self-Evolving AI Agent Ecosystems](https://dev.to/rikinptl/emergent-tool-discovery-in-self-evolving-ai-agent-ecosystems-i54)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
