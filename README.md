@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Observation processing network](https://dev.to/rikinptl/observation-processing-network-2m8j)
 - [Emergent Communication Protocols in Multi-Agent Reinforcement Learning Systems](https://dev.to/rikinptl/emergent-communication-protocols-in-multi-agent-reinforcement-learning-systems-1e52)
 - [Emergent Communication Protocols in Multi-Agent Reinforcement Learning Systems](https://dev.to/rikinptl/emergent-communication-protocols-in-multi-agent-reinforcement-learning-systems-4gi7)
 - [Concatenate observation with received messages](https://dev.to/rikinptl/concatenate-observation-with-received-messages-eic)
 - [Observation processing](https://dev.to/rikinptl/observation-processing-38an)
-- [Update positions based on actions](https://dev.to/rikinptl/update-positions-based-on-actions-162l)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
