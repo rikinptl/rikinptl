@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Emergent Communication Protocols in Multi-Agent Reinforcement Learning Systems](https://dev.to/rikinptl/emergent-communication-protocols-in-multi-agent-reinforcement-learning-systems-jh2)
 - [Emergent Communication Protocols in Multi-Agent Reinforcement Learning Systems](https://dev.to/rikinptl/emergent-communication-protocols-in-multi-agent-reinforcement-learning-systems-49bi)
 - [Emergent Communication Protocols in Multi-Agent Reinforcement Learning Systems](https://dev.to/rikinptl/emergent-communication-protocols-in-multi-agent-reinforcement-learning-systems-1le9)
 - [Simple proportional allocation based on observed demands](https://dev.to/rikinptl/simple-proportional-allocation-based-on-observed-demands-4f3i)
 - [Emergent Coordination in Heterogeneous Multi-Agent Systems Through Differentiable Communication](https://dev.to/rikinptl/emergent-coordination-in-heterogeneous-multi-agent-systems-through-differentiable-communication-4nee)
-- [Emergent Coordination in Heterogeneous Multi-Agent Systems Through Differentiable Communication](https://dev.to/rikinptl/emergent-coordination-in-heterogeneous-multi-agent-systems-through-differentiable-communication-582c)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
