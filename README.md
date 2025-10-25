@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
-- [Observation processing network](https://dev.to/rikinptl/observation-processing-network-353l)
 - [Each agent contributes based on their expertise](https://dev.to/rikinptl/each-agent-contributes-based-on-their-expertise-4ele)
 - [Communication encoding network](https://dev.to/rikinptl/communication-encoding-network-113h)
 - [Process each modality in parallel](https://dev.to/rikinptl/process-each-modality-in-parallel-5c4p)
 - [Emergent Capabilities in Multi-Modal Agentic Systems: When AI Agents Develop Unexpected Problem-Solving Strategies](https://dev.to/rikinptl/emergent-capabilities-in-multi-modal-agentic-systems-when-ai-agents-develop-unexpected-1ima)
+- [Each agent gets a partial view of the state](https://dev.to/rikinptl/each-agent-gets-a-partial-view-of-the-state-3i04)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
