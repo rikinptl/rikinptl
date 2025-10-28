@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Encode internal state and context](https://dev.to/rikinptl/encode-internal-state-and-context-111n)
 - [Emergent Communication Protocols in Multi-Agent Reinforcement Learning Systems](https://dev.to/rikinptl/emergent-communication-protocols-in-multi-agent-reinforcement-learning-systems-55n9)
 - [Emergent Communication Protocols in Multi-Agent Reinforcement Learning Systems](https://dev.to/rikinptl/emergent-communication-protocols-in-multi-agent-reinforcement-learning-systems-3ep)
 - [Each agent contributes based on their expertise](https://dev.to/rikinptl/each-agent-contributes-based-on-their-expertise-4ele)
 - [Communication encoding network](https://dev.to/rikinptl/communication-encoding-network-113h)
-- [Process each modality in parallel](https://dev.to/rikinptl/process-each-modality-in-parallel-5c4p)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
