@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Quantum-Resistant Federated Learning with Lattice-Based Homomorphic Encryption for Edge AI Systems](https://dev.to/rikinptl/quantum-resistant-federated-learning-with-lattice-based-homomorphic-encryption-for-edge-ai-systems-ihe)
 - [Quantum-Resistant Federated Learning with Lattice-Based Homomorphic Encryption for Edge AI Systems](https://dev.to/rikinptl/quantum-resistant-federated-learning-with-lattice-based-homomorphic-encryption-for-edge-ai-systems-1i0n)
 - [Quantum-Resistant Federated Learning with Lattice-Based Homomorphic Encryption for Medical Imaging](https://dev.to/rikinptl/quantum-resistant-federated-learning-with-lattice-based-homomorphic-encryption-for-medical-imaging-1jp7)
 - [Encode internal state and context](https://dev.to/rikinptl/encode-internal-state-and-context-111n)
 - [Emergent Communication Protocols in Multi-Agent Reinforcement Learning Systems](https://dev.to/rikinptl/emergent-communication-protocols-in-multi-agent-reinforcement-learning-systems-55n9)
-- [Emergent Communication Protocols in Multi-Agent Reinforcement Learning Systems](https://dev.to/rikinptl/emergent-communication-protocols-in-multi-agent-reinforcement-learning-systems-3ep)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
