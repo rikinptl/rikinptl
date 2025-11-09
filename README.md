@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [AI Model Optimization for Production Deployment - 20251109_225525](https://dev.to/rikinptl/ai-model-optimization-for-production-deployment-20251109225525-1o8i)
 - [Quantum-Resistant Federated Learning: Securing Distributed Model Training Against Post-Quantum Cryptography Threats](https://dev.to/rikinptl/quantum-resistant-federated-learning-securing-distributed-model-training-against-post-quantum-1lap)
 - [Quantum-Resistant Federated Learning with Homomorphic Encryption for Cross-Silo Medical AI Systems](https://dev.to/rikinptl/quantum-resistant-federated-learning-with-homomorphic-encryption-for-cross-silo-medical-ai-systems-1hgl)
 - [Quantum-Resistant Federated Learning: Securing Distributed Model Training Against Post-Quantum Cryptographic Threats](https://dev.to/rikinptl/quantum-resistant-federated-learning-securing-distributed-model-training-against-post-quantum-5eo9)
 - [Quantum-Resistant Federated Learning: Securing Distributed Model Training Against Future Cryptanalytic Attacks](https://dev.to/rikinptl/quantum-resistant-federated-learning-securing-distributed-model-training-against-future-pda)
-- [Quantum-Resistant Federated Learning: Implementing Post-Quantum Cryptography for Secure Model Aggregation in Cross-Silo Envir...](https://dev.to/rikinptl/quantum-resistant-federated-learning-implementing-post-quantum-cryptography-for-secure-model-4ano)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
