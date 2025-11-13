@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Self-Supervised Temporal Pattern Mining for circular manufacturing supply chains with inverse simulation verification](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-circular-manufacturing-supply-chains-with-inverse-nk2)
 - [Sparse Federated Representation Learning for autonomous urban air mobility routing for low-power autonomous deployments](https://dev.to/rikinptl/sparse-federated-representation-learning-for-autonomous-urban-air-mobility-routing-for-low-power-45f4)
 - [Privacy-Preserving Active Learning for circular manufacturing supply chains for extreme data sparsity scenarios](https://dev.to/rikinptl/privacy-preserving-active-learning-for-circular-manufacturing-supply-chains-for-extreme-data-1pj)
 - [Edge-to-Cloud Swarm Coordination for planetary geology survey missions with ethical auditability baked in](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-planetary-geology-survey-missions-with-ethical-auditability-1hic)
 - [Cross-Modal Knowledge Distillation for sustainable aquaculture monitoring systems with embodied agent feedback loops](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-sustainable-aquaculture-monitoring-systems-with-embodied-81o)
-- [AI Model Optimization for Production Deployment - 20251109_225525](https://dev.to/rikinptl/ai-model-optimization-for-production-deployment-20251109225525-1o8i)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
