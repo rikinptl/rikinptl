@@ -4,8 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikinptl&label=Profile%20views&color=0e75b6&style=flat" alt="rikinptl" /> </p>
 
-- 🔭 I’m currently working on [utility-scripts](https://github.com/rikinptl/utility-scripts)
-
 - 🌱 I’m currently learning **real time streaming applications!**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/rikinptl?tab=repositories)
@@ -19,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging Python for Efficient Cold Email Outreach to Recruiters: A Practical Guide](https://dev.to/rikinptl/leveraging-python-for-efficient-cold-email-outreach-to-recruiters-a-practical-guide-3p25)
-- [Unleashing AWS CDK: A Developer&#39;s Gateway to Cloud Infrastructure](https://dev.to/rikinptl/unleashing-aws-cdk-a-developers-gateway-to-cloud-infrastructure-3bg6)
-- [Harnessing Cron Job Scheduling Strategies for Advanced EC2 Cost Optimization in Enterprise IT Environments](https://dev.to/rikinptl/harnessing-cron-job-scheduling-strategies-for-advanced-ec2-cost-optimization-in-enterprise-it-environments-3cao)
-- [Efficient Data Validation and S3 Upload with Python: A Deep Dive into S3Loader Utility](https://dev.to/rikinptl/efficient-data-validation-and-s3-upload-with-python-a-deep-dive-into-s3loader-utility-cal)
-- [Setting up MySQL on Amazon EC2 using Homebrew](https://dev.to/rikinptl/setting-up-mysql-on-amazon-ec2-using-homebrew-3nmc)
+- [Sparse Federated Representation Learning for autonomous urban air mobility routing with embodied agent feedback loops](https://dev.to/rikinptl/sparse-federated-representation-learning-for-autonomous-urban-air-mobility-routing-with-embodied-2i9a)
+- [Privacy-Preserving Active Learning for circular manufacturing supply chains in hybrid quantum-classical pipelines](https://dev.to/rikinptl/privacy-preserving-active-learning-for-circular-manufacturing-supply-chains-in-hybrid-2pj2)
+- [Explainable Causal Reinforcement Learning for deep-sea exploration habitat design across multilingual stakeholder groups](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-deep-sea-exploration-habitat-design-across-5eib)
+- [Meta-Optimized Continual Adaptation for heritage language revitalization programs with inverse simulation verification](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-heritage-language-revitalization-programs-with-inverse-2d85)
+- [Self-Supervised Temporal Pattern Mining for circular manufacturing supply chains with inverse simulation verification](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-circular-manufacturing-supply-chains-with-inverse-nk2)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,7 +36,6 @@ Check out these blogs where I talk about cool stuff I'm learning while working o
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rikinptl&show_icons=true&locale=en&layout=compact" alt="rikinptl" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rikinptl&" alt="rikinptl" /></p>
