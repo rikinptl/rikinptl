@@ -1,21 +1,106 @@
-<!--![MasterHead](https://t4.ftcdn.net/jpg/05/39/88/83/240_F_539888304_hjMmavzflkeQBCoWaTDSFqF0rxDa3VA2.jpg) -->
-<h1 align="center">Hi 👋, I'm Rikin Patel</h1>
-<h3 align="center">A passionate Data Engineer from USA</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rikinptl&label=Profile%20views&color=0e75b6&style=flat" alt="rikinptl" /> </p>
+<div align="center">
 
-- 🌱 I’m currently learning **real time streaming applications!**
+<!-- Typing header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Rikin+Patel;Data+Engineer+%E2%86%92+AI+Product+Builder;Turning+raw+data+into+things+people+actually+use" alt="Typing intro" />
 
-- 👨‍💻 All of my projects are available [here](https://github.com/rikinptl?tab=repositories)
+<br/><br/>
 
-- 📝 I regularly write articles on [dev.to](https://dev.to/rikinptl)
+[![Profile Views](https://komarev.com/ghpvc/?username=rikinptl&label=profile%20views&color=0e7490&style=for-the-badge)](https://github.com/rikinptl)
+[![Location](https://img.shields.io/badge/Dallas,_Texas-0f172a?style=for-the-badge&logo=googlemaps&logoColor=22d3ee)](https://github.com/rikinptl)
+[![Dev.to](https://img.shields.io/badge/dev.to-rikinptl-0f172a?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/rikinptl)
 
-- 💬 Ask me about **python,SQL,NoSQL,Apache Hadoop, Apache Spark, Apache Hive, Apache Airflow, Docker, Apache Kafka, Snowflake, PostgreSQL, MongoDB**
+<br/>
 
-- 📫 You can reach me via my email: **rpatel2001w@gmail.com**
+**I used to list every tool I'd heard of. Now I ship.**
 
-# My Latest Blogs📝
-Check out these blogs where I talk about cool stuff I'm learning while working on my project:
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e863-1fe5-40ce-b4b9-a416ec8aa95f.gif" width="400" alt="Coding animation" />
+
+</div>
+
+---
+
+### `// the arc`
+
+> Built my first README when the stack was Hadoop, Spark, and hope.  
+> Now I pair **data pipelines** with **LLMs and agents** — and ship full products in days, not quarters.
+
+```bash
+$ whoami
+> rikin patel · dallas, tx
+> data engineer who got tired of dashboards nobody opened
+> now: ingest → model → ship → iterate (with AI in the loop)
+
+$ cat current_focus.txt
+> real-time streaming · agentic workflows · gov-tech · sam.gov intelligence
+> building in public on github + dev.to
+
+$ echo $OPEN_TO
+> collabs · interesting data problems · products that matter
+```
+
+---
+
+### `> featured_work`
+
+| Project | What it does | Stack |
+|:--------|:-------------|:------|
+| [**gov_cntrct**](https://github.com/rikinptl/gov_cntrct) · *BidBeacon* | AI-powered federal contract discovery on SAM.gov — plain-English search, PDF mission briefs, bid prep | `Next.js` `TypeScript` `LLMs` |
+| [**flight-data-etl**](https://github.com/rikinptl/flight-data-etl) | End-to-end flight data pipeline — ingest, transform, load | `Python` `ETL` |
+| [**user-data-classify**](https://github.com/rikinptl/user-data-classify) | ML classification over user datasets | `Python` |
+| [**nflx_portfolio**](https://github.com/rikinptl/nflx_portfolio) | Netflix-inspired portfolio UI | `TypeScript` |
+| [**demos**](https://github.com/rikinptl/demos) | Experiments, prototypes, and learning sandboxes | `Python` |
+
+<p align="right"><a href="https://github.com/rikinptl?tab=repositories"><b>all repos →</b></a></p>
+
+---
+
+### `> stack`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Data foundations** — where I started
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**Shipping layer** — what I build with now
+
+<br/>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AI / LLMs](https://img.shields.io/badge/AI_%2F_LLMs-22D3EE?style=for-the-badge&logo=openai&logoColor=black)
+![Agents](https://img.shields.io/badge/Agents-10B981?style=for-the-badge&logo=git&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+### `> latest_writing`
+
+Things I'm learning while building — auto-synced from [dev.to](https://dev.to/rikinptl):
+
 <!-- BLOG-POST-LIST:START -->
 - [Privacy-Preserving Active Learning for sustainable aquaculture monitoring systems with inverse simulation verification](https://dev.to/rikinptl/privacy-preserving-active-learning-for-sustainable-aquaculture-monitoring-systems-with-inverse-21b2)
 - [Explainable Causal Reinforcement Learning for deep-sea exploration habitat design with ethical auditability baked in](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-deep-sea-exploration-habitat-design-with-ethical-1500)
@@ -23,19 +108,42 @@ Check out these blogs where I talk about cool stuff I'm learning while working o
 - [Meta-Optimized Continual Adaptation for precision oncology clinical workflows with inverse simulation verification](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-precision-oncology-clinical-workflows-with-inverse-2el8)
 - [Generative Simulation Benchmarking for wildfire evacuation logistics networks in carbon-negative infrastructure](https://dev.to/rikinptl/generative-simulation-benchmarking-for-wildfire-evacuation-logistics-networks-in-carbon-negative-514d)
 <!-- BLOG-POST-LIST:END -->
-<h3 align="left">Connect with me:</h3>
+
+---
+
+### `> connect`
+
 <p align="left">
-<a href="https://dev.to/rikinptl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rikinptl" height="30" width="40" /></a>
-<a href="https://twitter.com/rikinpatel_2620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rikinpatel_2620" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/rikin-patel-02300528a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rknptl" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23205688" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23205688" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rikinpatel_2620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rikinpatel_2620" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rknptl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rknptl" height="30" width="40" /></a>
+<a href="https://dev.to/rikinptl" target="_blank"><img src="https://img.shields.io/badge/dev.to-@rikinptl-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"/></a>
+<a href="https://www.linkedin.com/in/rikin-patel-02300528a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://twitter.com/rikinpatel_2620" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://stackoverflow.com/users/23205688" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
+<a href="https://www.leetcode.com/rknptl" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://www.hackerrank.com/rikinpatel_2620" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+📫 **rpatel2001w@gmail.com** · ask me about **Python, streaming, ETL, LLMs, or why your pipeline works but nobody uses the output**
 
+---
 
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rikinptl&" alt="rikinptl" /></p>
+### `> git_stats`
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=rikinptl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikinptl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&langs_count=8" alt="Top languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rikinptl&theme=tokyonight&hide_border=true&background=0D1117&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee" alt="GitHub streak"/>
+
+<br/><br/>
+
+<!-- Contribution snake -->
+<img src="https://raw.githubusercontent.com/rikinptl/rikinptl/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+
+<br/><br/>
+
+<sub>README v2 — built with agents, not templates · 2026</sub>
+
+</div>
