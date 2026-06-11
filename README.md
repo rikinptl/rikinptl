@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Rikin+Patel;Data+Engineer;Building+data+pipelines+and+AI-powered+products" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Rikin+Patel;Data+Engineer;Dallas,+TX" alt="Typing intro" />
 
 <br/><br/>
 
