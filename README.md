@@ -32,20 +32,6 @@ $ echo $OPEN_TO
 
 ---
 
-### `> featured_work`
-
-| Project | What it does | Stack |
-|:--------|:-------------|:------|
-| [**gov_cntrct**](https://github.com/rikinptl/gov_cntrct) · *BidBeacon* | AI-powered federal contract discovery on SAM.gov — plain-English search, PDF mission briefs, bid prep | `Next.js` `TypeScript` `LLMs` |
-| [**flight-data-etl**](https://github.com/rikinptl/flight-data-etl) | End-to-end flight data pipeline — ingest, transform, load | `Python` `ETL` |
-| [**user-data-classify**](https://github.com/rikinptl/user-data-classify) | ML classification over user datasets | `Python` |
-| [**nflx_portfolio**](https://github.com/rikinptl/nflx_portfolio) | Netflix-inspired portfolio UI | `TypeScript` |
-| [**demos**](https://github.com/rikinptl/demos) | Experiments, prototypes, and learning sandboxes | `Python` |
-
-<p align="right"><a href="https://github.com/rikinptl?tab=repositories"><b>all repos →</b></a></p>
-
----
-
 ### `> stack`
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
